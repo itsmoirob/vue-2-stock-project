@@ -1,0 +1,3 @@
+<template>
+  <h1>The header component</h1>
+</template>
